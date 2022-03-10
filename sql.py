@@ -1,9 +1,9 @@
 # Fill in credentials
-host='data-analytics-course.c8g8r1deus2v.eu-central-1.rds.amazonaws.com'
-port='5432'
+host='#####'
+port='####'
 database='postgres'
 user='maximilianpiepelow'
-password='wPdcAV7K3LZxbqSn'
+password='#####'
 
 
 from sqlalchemy import create_engine    
