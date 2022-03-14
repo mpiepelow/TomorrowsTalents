@@ -546,5 +546,5 @@ for link in link_list:
 driver.quit()      
 
 df_unis.to_excel('./list_unis.xlsx')
-df_fbs.to_excel('./list_unis.xlsx')
-df_stds.to_excel('./list_unis.xlsx')
+df_fbs.to_excel('./list_fbs.xlsx')
+df_stds.to_excel('./list_stds.xlsx')
